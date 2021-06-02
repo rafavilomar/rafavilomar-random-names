@@ -1,0 +1,23 @@
+{
+  "name": "rafavilomar-random-messages",
+  "version": "1.0.0",
+  "description": "random message generator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "node"
+  ],
+  "author": "Rafael Vilomar <rafavilomar@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
