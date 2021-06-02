@@ -14,10 +14,19 @@
   "author": "Rafael Vilomar <rafavilomar@gmail.com>",
   "license": "MIT",
   "bin": {
-    "rafavilomar-random-nm": "./bin/global.js"
+    "rafavilomar-random-nm": "bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
     "user": "0.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafavilomar/rafavilomar-random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rafavilomar/rafavilomar-random-names/issues"
+  },
+  "homepage": "https://github.com/rafavilomar/rafavilomar-random-names#readme"
 }
